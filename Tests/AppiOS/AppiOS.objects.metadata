@@ -1,0 +1,3793 @@
+{
+	"UIATableView": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": "/**String*/ text"
+			},
+			{
+				"name": "DoSelectItem",
+				"signature": "index"
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ItemIndexByName",
+				"setsign": "",
+				"getsign": "name",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "MobileListView",
+		"object_flavor": "ListView",
+		"object_name": "UIATableView",
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device",
+		"ignore_object_name": true
+	},
+	"Add": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": "/**String*/ text"
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "MobileButton",
+		"object_flavor": "Button",
+		"object_name": "Add",
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device",
+		"ignore_object_name": true
+	},
+	"Save": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": "/**String*/ text"
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "MobileButton",
+		"object_flavor": "Button",
+		"object_name": "Save",
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device",
+		"ignore_object_name": true
+	},
+	"Text": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": "/**String*/ text"
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "MobileEditBox",
+		"object_flavor": "Text",
+		"object_name": "Text",
+		"ignore_object_name": true,
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device"
+	},
+	"Edit": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": "/**String*/ text"
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "MobileButton",
+		"object_flavor": "Button",
+		"object_name": "Edit",
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device",
+		"ignore_object_name": true
+	},
+	"Delete_Button": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": "/**String*/ text"
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "MobileButton",
+		"object_flavor": "Button",
+		"object_name": "Delete Button",
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device",
+		"ignore_object_name": true
+	},
+	"Done": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": "/**String*/ text"
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "MobileButton",
+		"object_flavor": "Button",
+		"object_name": "Done",
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device",
+		"ignore_object_name": true
+	},
+	"Delete_Confirm": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": "/**String*/ text"
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "MobileButton",
+		"object_flavor": "Button",
+		"object_name": "Delete_Confirm",
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device",
+		"ignore_object_name": true
+	},
+	"Contents": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": "/**String*/ text"
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "MobileButton",
+		"object_flavor": "Button",
+		"object_name": "Contents",
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device",
+		"ignore_object_name": true
+	},
+	"Message": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": "/**String*/ text"
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "MobileEditBox",
+		"object_flavor": "Text",
+		"object_name": "Message",
+		"ignore_object_name": true,
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device"
+	},
+	"Send": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": "/**String*/ text"
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "MobileButton",
+		"object_flavor": "Button",
+		"object_name": "Send",
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device",
+		"ignore_object_name": true
+	},
+	"UserName": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": "/**String*/ text"
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "MobileEditBox",
+		"object_flavor": "Text",
+		"object_name": "UserName",
+		"ignore_object_name": true,
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device"
+	},
+	"Login": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": "/**String*/ text"
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "MobileButton",
+		"object_flavor": "Button",
+		"object_name": "Login",
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device",
+		"ignore_object_name": true
+	},
+	"login_data": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": "/**String*/ text"
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "MobileLabel",
+		"object_flavor": "Label",
+		"object_name": "login data",
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device",
+		"ignore_object_name": true
+	},
+	"Mercury": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": "/**String*/ text"
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "MobileLabel",
+		"object_flavor": "Label",
+		"object_name": "Mercury",
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device",
+		"ignore_object_name": true
+	},
+	"Password": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": "/**String*/ text"
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "MobileEditBox",
+		"object_flavor": "Text",
+		"object_name": "Text",
+		"ignore_object_name": true,
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device"
+	},
+	"qqq": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": "/**String*/ text"
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "MobileLabel",
+		"object_flavor": "Label",
+		"object_name": "qqq",
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device",
+		"ignore_object_name": true
+	},
+	"OK": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": "/**String*/ text"
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "MobileButton",
+		"object_flavor": "Button",
+		"object_name": "OK",
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device",
+		"ignore_object_name": true
+	},
+	"Picker": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": "/**String*/ text"
+			},
+			{
+				"name": "DoSelectItem",
+				"signature": "index"
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ItemIndexByName",
+				"setsign": "",
+				"getsign": "name",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "MobileListView",
+		"object_flavor": "ListView",
+		"object_name": "ListView",
+		"ignore_object_name": true,
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device"
+	},
+	"TableCell": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": "/**String*/ text"
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Property",
+				"setsign": "",
+				"getsign": "name",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_flavor",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "iOSObject",
+		"object_flavor": "Mobile",
+		"object_name": "TableCell",
+		"object_class": "",
+		"window_name": "Device",
+		"ignore_object_name": true
+	},
+	"Switch": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": "/**String*/ text"
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Property",
+				"setsign": "",
+				"getsign": "name",
+				"readonly": true
+			},
+			{
+				"name": "Checked",
+				"setsign": "value",
+				"getsign": "",
+				"readonly": false
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "iOSSwitch",
+		"object_flavor": "Switch",
+		"object_name": "Switch",
+		"ignore_object_name": true,
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device"
+	},
+	"Slider": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": "/**String*/ text"
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Property",
+				"setsign": "",
+				"getsign": "name",
+				"readonly": true
+			},
+			{
+				"name": "Value",
+				"setsign": "value",
+				"getsign": "",
+				"readonly": false
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "iOSSlider",
+		"object_flavor": "Slider",
+		"object_name": "Slider",
+		"ignore_object_name": true,
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device"
+	},
+	"Image": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": "/**String*/ text"
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Property",
+				"setsign": "",
+				"getsign": "name",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "iOSImage",
+		"object_flavor": "Image",
+		"object_name": "Image",
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device",
+		"ignore_object_name": true
+	},
+	"Search": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": ""
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Property",
+				"setsign": "",
+				"getsign": "name",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "iOSSearch",
+		"object_flavor": "Search",
+		"object_name": "Search",
+		"ignore_object_name": true,
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device"
+	},
+	"Advanced": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": ""
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Property",
+				"setsign": "",
+				"getsign": "name",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "iOSButton",
+		"object_flavor": "Button",
+		"object_name": "Advanced",
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device",
+		"ignore_object_name": true
+	},
+	"TabBar": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": ""
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Property",
+				"setsign": "",
+				"getsign": "name",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "iOSTabBar",
+		"object_flavor": "TabControl",
+		"object_name": "TabControl",
+		"ignore_object_name": true,
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device"
+	},
+	"PageIndicator": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": ""
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Property",
+				"setsign": "",
+				"getsign": "name",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "iOSPageIndicator",
+		"object_flavor": "TabControl",
+		"object_name": "TabControl",
+		"ignore_object_name": true,
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device"
+	},
+	"ScrollView": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": ""
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Property",
+				"setsign": "",
+				"getsign": "name",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "iOSScrollView",
+		"object_flavor": "VScrollBar",
+		"object_name": "VScrollBar",
+		"ignore_object_name": true,
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device"
+	},
+	"WebView": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": ""
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Property",
+				"setsign": "",
+				"getsign": "name",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "iOSWebView",
+		"object_flavor": "Web",
+		"object_name": "Web",
+		"ignore_object_name": true,
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device"
+	},
+	"TextView": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": ""
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Property",
+				"setsign": "",
+				"getsign": "name",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "iOSTextView",
+		"object_flavor": "Text",
+		"object_name": "Text",
+		"ignore_object_name": true,
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device"
+	},
+	"Mobile": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoDoubleClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": ""
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Property",
+				"setsign": "",
+				"getsign": "name",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_flavor",
+		"object_text": "Log In",
+		"object_role": "param:object_flavor",
+		"object_class": "a",
+		"version": 0,
+		"object_type": "MobileWebObject",
+		"object_flavor": "Mobile",
+		"object_name": "Mobile",
+		"ignore_object_name": true,
+		"window_name": "Device"
+	},
+	"Master_Minus_Detail_Table_View": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": ""
+			},
+			{
+				"name": "DoTap",
+				"signature": ""
+			},
+			{
+				"name": "DoDoubleTap",
+				"signature": ""
+			},
+			{
+				"name": "DoTouchAndHold",
+				"signature": ""
+			},
+			{
+				"name": "DoTwoFingerTap",
+				"signature": ""
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Label",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Property",
+				"setsign": "",
+				"getsign": "name",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_flavor",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "iOSObject",
+		"object_flavor": "Mobile",
+		"object_name": "Master - Detail Table View",
+		"object_class": "",
+		"window_name": "Device",
+		"ignore_object_name": true
+	},
+	"Basic_Controls": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": ""
+			},
+			{
+				"name": "DoTap",
+				"signature": ""
+			},
+			{
+				"name": "DoDoubleTap",
+				"signature": ""
+			},
+			{
+				"name": "DoTouchAndHold",
+				"signature": ""
+			},
+			{
+				"name": "DoTwoFingerTap",
+				"signature": ""
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Label",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Property",
+				"setsign": "",
+				"getsign": "name",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_flavor",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "iOSObject",
+		"object_flavor": "Mobile",
+		"object_name": "Basic Controls",
+		"object_class": "",
+		"window_name": "Device",
+		"ignore_object_name": true
+	},
+	"Advanced_Controls": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": ""
+			},
+			{
+				"name": "DoTap",
+				"signature": ""
+			},
+			{
+				"name": "DoDoubleTap",
+				"signature": ""
+			},
+			{
+				"name": "DoTouchAndHold",
+				"signature": ""
+			},
+			{
+				"name": "DoTwoFingerTap",
+				"signature": ""
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Label",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Property",
+				"setsign": "",
+				"getsign": "name",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_flavor",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "iOSObject",
+		"object_flavor": "Mobile",
+		"object_name": "Advanced Controls",
+		"object_class": "",
+		"window_name": "Device",
+		"ignore_object_name": true
+	},
+	"AUTiOS": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": ""
+			},
+			{
+				"name": "DoTap",
+				"signature": ""
+			},
+			{
+				"name": "DoDoubleTap",
+				"signature": ""
+			},
+			{
+				"name": "DoTouchAndHold",
+				"signature": ""
+			},
+			{
+				"name": "DoTwoFingerTap",
+				"signature": ""
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Label",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Property",
+				"setsign": "",
+				"getsign": "name",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "iOSButton",
+		"object_flavor": "Button",
+		"object_name": "AUTiOS",
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device",
+		"ignore_object_name": true
+	},
+	"Back": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": ""
+			},
+			{
+				"name": "DoClick",
+				"signature": ""
+			},
+			{
+				"name": "DoClear",
+				"signature": ""
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**String*/ keys"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": ""
+			},
+			{
+				"name": "DoTap",
+				"signature": ""
+			},
+			{
+				"name": "DoDoubleTap",
+				"signature": ""
+			},
+			{
+				"name": "DoTouchAndHold",
+				"signature": ""
+			},
+			{
+				"name": "DoTwoFingerTap",
+				"signature": ""
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Label",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true
+			},
+			{
+				"name": "Property",
+				"setsign": "",
+				"getsign": "name",
+				"readonly": true
+			}
+		],
+		"items": null,
+		"window_text": "Device",
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "iOSButton",
+		"object_flavor": "Button",
+		"object_name": "Back",
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device",
+		"ignore_object_name": true
+	}
+}
