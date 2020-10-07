@@ -881,5 +881,32 @@ var saved_script_objects={
 		"object_library": "Mobile",
 		"window_name": "Device",
 		"ignore_object_name": true
+	},
+	"Basic_Controls1": {
+		"locations": [
+			{
+				"locator_name": "Mobile",
+				"location": {
+					"xpath": "param:xpath",
+					"css": "",
+					"id": "",
+					"ios": "param:ios",
+					"acc": ""
+				}
+			}
+		],
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "iOSLabel",
+		"object_flavor": "Label",
+		"object_name": "Basic Controls",
+		"ignore_object_name": true,
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device",
+		"xpath": "/XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTable/XCUIElementTypeCell[2]/XCUIElementTypeStaticText",
+		"ios": "XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTable/XCUIElementTypeCell[2]/XCUIElementTypeStaticText"
 	}
 };

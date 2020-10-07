@@ -6,6 +6,8 @@ function Test()
 		return;
 	}
 
+	TestSiblings();
+	/*
 	TestDevice();
 	TestElement();	
 	TestMasterTable();
@@ -16,6 +18,7 @@ function Test()
 	//SeSMobileDoExecuteScriptIOS("" + UIAutomation + "\r\n UIAutomation();");
 
 	Global.DoSleep(3000);
+	*/
 }
 
 g_load_libraries=["Mobile"];

@@ -1379,105 +1379,6 @@
 		"window_name": "Device",
 		"ignore_object_name": true
 	},
-	"Mercury": {
-		"actions": [
-			{
-				"name": "DoAction",
-				"signature": ""
-			},
-			{
-				"name": "DoClick",
-				"signature": ""
-			},
-			{
-				"name": "DoClear",
-				"signature": ""
-			},
-			{
-				"name": "DoSendKeys",
-				"signature": "/**String*/ keys"
-			},
-			{
-				"name": "DoEnsureVisible",
-				"signature": "/**String*/ text"
-			}
-		],
-		"properties": [
-			{
-				"name": "Name",
-				"setsign": "",
-				"getsign": "",
-				"readonly": true
-			},
-			{
-				"name": "Class",
-				"setsign": "",
-				"getsign": "",
-				"readonly": true
-			},
-			{
-				"name": "Text",
-				"setsign": "",
-				"getsign": "",
-				"readonly": true
-			},
-			{
-				"name": "X",
-				"setsign": "",
-				"getsign": "",
-				"readonly": true
-			},
-			{
-				"name": "Y",
-				"setsign": "",
-				"getsign": "",
-				"readonly": true
-			},
-			{
-				"name": "Width",
-				"setsign": "",
-				"getsign": "",
-				"readonly": true
-			},
-			{
-				"name": "Height",
-				"setsign": "",
-				"getsign": "",
-				"readonly": true
-			},
-			{
-				"name": "ObjectType",
-				"setsign": "",
-				"getsign": "",
-				"readonly": true
-			},
-			{
-				"name": "ChildAt",
-				"setsign": "",
-				"getsign": "index",
-				"readonly": true
-			},
-			{
-				"name": "ChildCount",
-				"setsign": "",
-				"getsign": "",
-				"readonly": true
-			}
-		],
-		"items": null,
-		"window_text": "Device",
-		"window_class": "param:object_library",
-		"object_text": "",
-		"object_role": "param:object_flavor",
-		"version": 0,
-		"object_type": "MobileLabel",
-		"object_flavor": "Label",
-		"object_name": "Mercury",
-		"object_class": "",
-		"object_library": "Mobile",
-		"window_name": "Device",
-		"ignore_object_name": true
-	},
 	"Password": {
 		"actions": [
 			{
@@ -3789,5 +3690,170 @@
 		"object_library": "Mobile",
 		"window_name": "Device",
 		"ignore_object_name": true
+	},
+	"Basic_Controls1": {
+		"actions": [
+			{
+				"name": "DoAction",
+				"signature": "",
+				"tag": "iOSObject"
+			},
+			{
+				"name": "DoClick",
+				"signature": "",
+				"tag": "iOSObject"
+			},
+			{
+				"name": "DoClear",
+				"signature": "",
+				"tag": "iOSObject"
+			},
+			{
+				"name": "DoSendKeys",
+				"signature": "/**string*/ keys",
+				"tag": "iOSObject"
+			},
+			{
+				"name": "DoEnsureVisible",
+				"signature": "",
+				"tag": "iOSObject"
+			},
+			{
+				"name": "DoTap",
+				"signature": "",
+				"tag": "iOSObject"
+			},
+			{
+				"name": "DoTwoFingerTap",
+				"signature": "",
+				"tag": "iOSObject"
+			},
+			{
+				"name": "DoFindByXPath",
+				"signature": "/**string*/ xpath",
+				"tag": "iOSObject"
+			}
+		],
+		"properties": [
+			{
+				"name": "Name",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true,
+				"tag": "iOSObject"
+			},
+			{
+				"name": "Class",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true,
+				"tag": "iOSObject"
+			},
+			{
+				"name": "Text",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true,
+				"tag": "iOSObject"
+			},
+			{
+				"name": "Label",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true,
+				"tag": "iOSObject"
+			},
+			{
+				"name": "X",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true,
+				"tag": "iOSObject"
+			},
+			{
+				"name": "Y",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true,
+				"tag": "iOSObject"
+			},
+			{
+				"name": "Width",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true,
+				"tag": "iOSObject"
+			},
+			{
+				"name": "Height",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true,
+				"tag": "iOSObject"
+			},
+			{
+				"name": "ObjectType",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true,
+				"tag": "iOSObject"
+			},
+			{
+				"name": "ChildAt",
+				"setsign": "",
+				"getsign": "index",
+				"readonly": true,
+				"tag": "iOSObject"
+			},
+			{
+				"name": "ChildCount",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true,
+				"tag": "iOSObject"
+			},
+			{
+				"name": "NextSibling",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true,
+				"tag": "iOSObject"
+			},
+			{
+				"name": "PrevSibling",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true,
+				"tag": "iOSObject"
+			},
+			{
+				"name": "Parent",
+				"setsign": "",
+				"getsign": "",
+				"readonly": true,
+				"tag": "iOSObject"
+			},
+			{
+				"name": "Property",
+				"setsign": "",
+				"getsign": "name",
+				"readonly": true,
+				"tag": "iOSObject"
+			}
+		],
+		"items": null,
+		"window_class": "param:object_library",
+		"object_text": "",
+		"object_role": "param:object_flavor",
+		"version": 0,
+		"object_type": "iOSLabel",
+		"object_flavor": "Label",
+		"object_name": "Basic Controls",
+		"ignore_object_name": true,
+		"object_class": "",
+		"object_library": "Mobile",
+		"window_name": "Device",
+		"xpath": "/XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTable/XCUIElementTypeCell[2]/XCUIElementTypeStaticText",
+		"ios": "XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTable/XCUIElementTypeCell[2]/XCUIElementTypeStaticText"
 	}
 }
