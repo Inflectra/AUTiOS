@@ -890,7 +890,7 @@ var saved_script_objects={
 					"xpath": "param:xpath",
 					"css": "",
 					"id": "",
-					"ios": "param:ios",
+					"ios": "",
 					"acc": ""
 				}
 			}
@@ -906,7 +906,6 @@ var saved_script_objects={
 		"object_class": "",
 		"object_library": "Mobile",
 		"window_name": "Device",
-		"xpath": "/XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTable/XCUIElementTypeCell[2]/XCUIElementTypeStaticText",
-		"ios": "XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTable/XCUIElementTypeCell[2]/XCUIElementTypeStaticText"
+		"xpath": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTable/XCUIElementTypeCell[2]/XCUIElementTypeStaticText"
 	}
 };

@@ -1,24 +1,25 @@
 
 function Test()
 {
-	if (!SeSConnectMobile())
+	RVL.DoPlayScript("AppiOS.rvl.xlsx", Tester.GetParam("sheetName", "RVL"));
+}
+
+function TestPrepare()
+{
+	AppiumDriver.ReconnectSession(true);
+}
+
+function TestFinish()
+{
+	if(Tester.GetTestStatus() != Tester.Pass)
 	{
-		return;
+		iOS.DoScreenshot();
 	}
 
-	TestSiblings();
-	/*
-	TestDevice();
-	TestElement();	
-	TestMasterTable();
-	TestBasicControls();
-	TestAdvancedControls();
-
-	// Not supported any more
-	//SeSMobileDoExecuteScriptIOS("" + UIAutomation + "\r\n UIAutomation();");
-
-	Global.DoSleep(3000);
-	*/
+	if (g_entryPointName == "Test")
+	{
+		AppiumDriver.Quit();
+	}
 }
 
 g_load_libraries=["Mobile"];

@@ -1,22 +1,26 @@
 
 function Test()
 {
-	if (!SeSConnectMobile())
-	{
-		return;
-	}
-	
-	iOS.DoGoToUrl("http://www.libraryinformationsystem.org");
+	RVL.DoPlayScript("WebiOS.rvl.xlsx", Tester.GetParam("sheetName", "RVL"));
+}
 
-	Global.DoSleep(3000);
-	
-	iOS.DoScreenshot();
-	
-	TestCreateNewBook();
-	
-	Global.DoSleep(5000);
+function TestPrepare()
+{
+	AppiumDriver.ReconnectSession(true);
+}
+
+function TestFinish()
+{
+	if(Tester.GetTestStatus() != Tester.Pass)
+	{
+		iOS.DoScreenshot();
+	}
+
+	if (g_entryPointName == "Test")
+	{
+		AppiumDriver.Close();
+	}
 }
 
 g_load_libraries=["Mobile"];
-
 
