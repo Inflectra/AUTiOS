@@ -1,5 +1,13 @@
 //Put your custom functions and variables in this file
 
+function DoDebug()
+{
+	SeS('UserName').DoClick(50);
+	SeS('UserName').DoClick(50, 10);
+	SeS('UserName').DoClick(0.1, 0.5);
+	SeS('UserName').DoClick(0.1, 0.5);
+}
+
 function TestDevice()
 {
 	Tester.AssertEqual("Device orientation is Portrait (0)", 0, iOS.GetDeviceOrientation());
@@ -86,6 +94,11 @@ function TestButtonEditLabel()
 	SeS('Password').SetText('pwd');
 	SeS('Login').DoClick();
 	Tester.AssertEqual("Login data is correct", SeS('login_data').GetText(), "User/pwd");
+	
+	SeS('UserName').DoClick(50);
+	SeS('UserName').DoClick(50, 10);
+	SeS('UserName').DoClick(0.1, 0.5);
+	SeS('UserName').DoClick(0.1, 0.5);
 }
 
 function TestPicker()
