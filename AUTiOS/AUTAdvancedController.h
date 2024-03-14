@@ -7,10 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <WebKit/WKWebView.h>
 
 @interface AUTAdvancedController : UIViewController
 
 @property (weak, nonatomic) IBOutlet UIScrollView *scrollView;
-@property (weak, nonatomic) IBOutlet UIWebView *webView;
+@property (weak, nonatomic) IBOutlet WKWebView *webView;
 @property (weak, nonatomic) IBOutlet UIPageControl *pageControl;
 @end
