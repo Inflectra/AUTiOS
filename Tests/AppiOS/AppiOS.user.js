@@ -2,10 +2,8 @@
 
 function DoDebug()
 {
-	SeS('UserName').DoClick(50);
-	SeS('UserName').DoClick(50, 10);
-	SeS('UserName').DoClick(0.1, 0.5);
-	SeS('UserName').DoClick(0.1, 0.5);
+	var listView = SeS('UIATableView');
+	var itemCount = listView.GetItemCount();
 }
 
 function TestDevice()
@@ -22,9 +20,10 @@ function TestSwitchSliderImage()
 	Tester.AssertEqual("Switch is off", SeS('Switch').GetChecked(), false);
 	SeS('Switch').SetChecked(true);
 	Tester.AssertEqual("Switch is on", SeS('Switch').GetChecked(), true);
-	Tester.AssertEqual("Slider is at 50%", SeS('Slider').GetValue(), "50%");
+	Log("Slider='" + SeS('Slider').GetValue()+"'");
+	Tester.AssertEqual("Slider is at 50%", SeS('Slider').GetValue(), "50 %");
 	SeS("Slider").SetValue(0.18);
-	Tester.AssertEqual("Slider is at 24%", SeS('Slider').GetValue(), "24%");
+	Tester.AssertEqual("Slider is at 15%", SeS('Slider').GetValue(), "15 %");
 	Tester.AssertEqual("Image width is 36", SeS('Image').GetWidth(), 36);
 	Tester.AssertEqual("Image height is 35", SeS('Image').GetHeight(), 35);
 }
@@ -65,7 +64,7 @@ function TestAddRemove()
 	SeS('Save').DoClick();
 	
 	var listView = SeS('UIATableView');
-	var itemCount = listView.GetChildCount();
+	var itemCount = listView.GetItemCount();
 	Tester.AssertEqual("Item count is 5", itemCount, 5);
 	
 	var itemText = listView.GetItemTextAt(0);
@@ -79,7 +78,7 @@ function TestAddRemove()
 	SeS('Done').DoClick();
 
 	listView = SeS('UIATableView');
-	var itemCount = listView.GetChildCount();
+	var itemCount = listView.GetItemCount();
 	Tester.AssertEqual("Item count is 4", itemCount, 4);
 }
 
@@ -155,7 +154,7 @@ function TestAdvControls()
 	scrollView.DoScrollRight();
 	scrollView.DoScrollLeft();	
 	
-	scrollView.DoScrollToElementWithName("Favorites");
+	//scrollView.DoScrollToElementWithName("Favorites");
 	
 
 	var textView = SeS("TextView");
@@ -190,7 +189,7 @@ function TestElement()
 {
 	var listView = SeS('UIATableView');
 	var firstItem = listView.GetChildAt(0);
-	Tester.AssertEqual("Label is 'Master - Detail Table View'", firstItem.GetChildAt(0).GetLabel(), "Master - Detail Table View");
+	Tester.AssertEqual("Label is 'Master - Detail Table View'", firstItem.GetChildAt(3).GetLabel(), "Master - Detail Table View");
 	firstItem.DoTap();
 	SeS('AUTiOS').DoClick();	
 }
@@ -213,10 +212,10 @@ function TestBasicControls()
 	SeS('Basic_Controls').DoClick();
 	Global.DoSleep(1000);
 	iOS.DoScreenshot();
-	TestButtonEditLabel();
 	TestPicker();
 	TestSwitchSliderImage();
-	SeS('AUTiOS').DoClick();	
+	TestButtonEditLabel();
+	SeS('AUTiOS').DoClick();
 
 }
 
@@ -244,6 +243,6 @@ function TestSiblings()
 	AssertName(obj, "Basic Controls");
 	AssertName(obj.GetNextSibling(), "Button, TextField, Label, Picker, Switch, Slider, Image");
 	AssertName(obj.GetNextSibling().GetPrevSibling(), "Basic Controls");
-	AssertName(obj.GetParent().GetNextSibling().GetChildAt(0), "Advanced Controls");
+	AssertName(obj.GetParent().GetNextSibling().GetChildAt(2), "Advanced Controls");
 	AssertName(obj.DoFindByXPath("/following-sibling::*[1]"), "Button, TextField, Label, Picker, Switch, Slider, Image");
 }

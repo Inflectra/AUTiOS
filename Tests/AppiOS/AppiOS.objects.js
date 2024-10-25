@@ -129,10 +129,10 @@ var saved_script_objects={
 			{
 				"locator_name": "Mobile",
 				"location": {
-					"xpath": "",
+					"xpath": "//XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton",
 					"css": "",
 					"id": "",
-					"ios": "XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTable/XCUIElementTypeCell/XCUIElementTypeButton"
+					"ios": ""
 				}
 			}
 		],
@@ -329,10 +329,10 @@ var saved_script_objects={
 			{
 				"locator_name": "Mobile",
 				"location": {
-					"xpath": "",
+					"xpath": "//XCUIElementTypeOther/XCUIElementTypeStaticText",
 					"css": "",
 					"id": "",
-					"ios": "XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeStaticText"
+					"ios": ""
 				}
 			}
 		],
@@ -379,10 +379,10 @@ var saved_script_objects={
 			{
 				"locator_name": "Mobile",
 				"location": {
-					"xpath": "",
+					"xpath": "//XCUIElementTypeStaticText[@value=\"Hello World!\"]",
 					"css": "",
 					"id": "",
-					"ios": "XCUIElementTypeWindow/XCUIElementTypeOther[2]/XCUIElementTypeAlert/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeStaticText[2]"
+					"ios": ""
 				}
 			}
 		],
@@ -429,10 +429,10 @@ var saved_script_objects={
 			{
 				"locator_name": "Mobile",
 				"location": {
-					"xpath": "",
+					"xpath": "//XCUIElementTypePickerWheel",
 					"css": "",
 					"id": "",
-					"ios": "XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypePicker/XCUIElementTypePickerWheel"
+					"ios": ""
 				}
 			}
 		],
@@ -478,10 +478,10 @@ var saved_script_objects={
 			{
 				"locator_name": "Mobile",
 				"location": {
-					"xpath": "",
+					"xpath": "//XCUIElementTypeSwitch",
 					"css": "",
 					"id": "",
-					"ios": "XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSwitch"
+					"ios": ""
 				}
 			}
 		],
@@ -503,10 +503,10 @@ var saved_script_objects={
 			{
 				"locator_name": "Mobile",
 				"location": {
-					"xpath": "",
+					"xpath": "//XCUIElementTypeSlider",
 					"css": "",
 					"id": "",
-					"ios": "XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSlider"
+					"ios": ""
 				}
 			}
 		],
@@ -528,10 +528,10 @@ var saved_script_objects={
 			{
 				"locator_name": "Mobile",
 				"location": {
-					"xpath": "",
+					"xpath": "//XCUIElementTypeImage",
 					"css": "",
 					"id": "",
-					"ios": "XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeImage"
+					"ios": ""
 				}
 			}
 		],
@@ -553,10 +553,10 @@ var saved_script_objects={
 			{
 				"locator_name": "Mobile",
 				"location": {
-					"xpath": "",
+					"xpath": "//XCUIElementTypeSearchField",
 					"css": "",
 					"id": "",
-					"ios": "XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSearchField",
+					"ios": "",
 					"acc": ""
 				}
 			}
@@ -605,10 +605,10 @@ var saved_script_objects={
 			{
 				"locator_name": "Mobile",
 				"location": {
-					"xpath": "",
+					"xpath": "//XCUIElementTypeTabBar",
 					"css": "",
 					"id": "",
-					"ios": "XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeTabBar",
+					"ios": "",
 					"acc": ""
 				}
 			}
@@ -631,10 +631,10 @@ var saved_script_objects={
 			{
 				"locator_name": "Mobile",
 				"location": {
-					"xpath": "",
+					"xpath": "//XCUIElementTypePageIndicator",
 					"css": "",
 					"id": "",
-					"ios": "XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypePageIndicator",
+					"ios": "",
 					"acc": ""
 				}
 			}
@@ -657,10 +657,10 @@ var saved_script_objects={
 			{
 				"locator_name": "Mobile",
 				"location": {
-					"xpath": "",
+					"xpath": "//XCUIElementTypeScrollView",
 					"css": "",
 					"id": "",
-					"ios": "XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView",
+					"ios": "",
 					"acc": ""
 				}
 			}
@@ -709,10 +709,10 @@ var saved_script_objects={
 			{
 				"locator_name": "Mobile",
 				"location": {
-					"xpath": "",
+					"xpath": "//XCUIElementTypeTextView",
 					"css": "",
 					"id": "",
-					"ios": "XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeTextView",
+					"ios": "",
 					"acc": ""
 				}
 			}
@@ -835,7 +835,7 @@ var saved_script_objects={
 			{
 				"locator_name": "Mobile",
 				"location": {
-					"xpath": "/XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeNavigationBar/XCUIElementTypeButton",
+					"xpath": "//XCUIElementTypeButton[@name=\"AUTiOS\"]",
 					"css": "",
 					"id": "",
 					"ios": "",
@@ -906,6 +906,6 @@ var saved_script_objects={
 		"object_class": "",
 		"object_library": "Mobile",
 		"window_name": "Device",
-		"xpath": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTable/XCUIElementTypeCell[2]/XCUIElementTypeStaticText"
+		"xpath": "//XCUIElementTypeStaticText[@name='Basic Controls']"
 	}
 };
